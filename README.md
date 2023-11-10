@@ -1,0 +1,1 @@
+# PA_STRUKTUR_DATA
